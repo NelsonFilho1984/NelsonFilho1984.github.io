@@ -1,11 +1,9 @@
 
-#Seja bem-vindo ao meu Portfólio Web!#
+# Seja bem-vindo ao meu Portfólio Web!
 
-##Ele foi e será construído utilizando toda minha jornada de aprendizado em Desenvolvimento de Software.##
+## Ele foi e será construído utilizando toda minha jornada de aprendizado em Desenvolvimento de Software.
  
-##É o meu super cantinho ~~mas pode ser o seu, sr.recrutador do Google~~ dentro da vasta web onde hospedo** meus projetos!##
-
-
+## Este é o meu repósitório de projetos ~~mas pode ser o seu, sr.recrutador do Google~~, mas costumo vê-lo como um super cantinho dentro da vasta web onde hospedo** meus projetos!##
 
 
 **GitHub Pages.
